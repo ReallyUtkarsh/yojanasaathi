@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-generativeai
+openai
+langchain
+numpy
+python-dotenv
+tqdm
+scikit-learn
+sentence-transformers
+googletrans==4.0.0-rc1
+requests
